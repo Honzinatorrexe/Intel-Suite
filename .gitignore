@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.json
+*.html
+*.csv
+audit_*.json
+.env
+venv/
+.idea/
+.vscode/
